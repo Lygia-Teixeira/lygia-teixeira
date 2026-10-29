@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Blue Team · Incident Response · Hardening · Observabilidade</strong><br>
-  Defesa Cibernética · Fortaleza, CE — Brasil
+  CompTIA Security+ · Pós em AppSec & DevSecOps (em andamento) · Fortaleza, CE — Brasil
 </p>
 
 <p align="center">
@@ -89,14 +89,19 @@ Lentidão generalizada causada por tráfego anômalo vindo de um único NAT, com
 
 ---
 
-## 🎓 Certificações
+## 🎓 Formação
 
+- 📚 Pós-graduação em AppSec e DevSecOps — em andamento
+- Defesa Cibernética
+
+## 🏅 Certificações
+
+- CompTIA Security+ (2026)
 - Google Cybersecurity Professional Certificate (2024)
 - Hackers do Bem — Governo Federal (2024)
 - ISO/IEC 27001 Associate (2023)
 - Analista de Infra e Redes — CECyber (2025)
 - Santander Bootcamp Cibersegurança #2 (2025)
-- 📌 CompTIA Security+ — em preparação
 
 ---
 
