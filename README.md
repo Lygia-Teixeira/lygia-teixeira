@@ -167,9 +167,9 @@ Cards do Jira resolvidos por n8n: desbloqueio de IP, cota e senha de e-mail via 
 </tr>
 </table>
 
-## Casos reais (anonimizados)
+## Casos reais
 
-> [!NOTE]
+> [!NOTA]
 > Resumos de incidentes em que atuei em ambiente de produção. Os nomes de clientes e de servidores foram omitidos. Versões completas em [incident-response-writeups](https://github.com/Lygia-Teixeira/incident-response-writeups).
 
 <details>
