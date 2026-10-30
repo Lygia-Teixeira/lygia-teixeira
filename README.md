@@ -5,7 +5,7 @@
 <a href="mailto:lygia.tsf@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" /></a>
 </p>
 
-Construo minha trajetória em **cibersegurança**, com foco em **Blue Team, AppSec e DevSecOps**. Atuo na proteção de ambientes de produção com **mais de 200 sites WordPress em servidores Linux/cPanel**, aplicando hardening, monitoramento e resposta a incidentes. Com a certificação **CompTIA Security+**, busco aprofundar essa experiência em **segurança de aplicações e automação de controles**, integrando proteção ao desenvolvimento e à operação de sistemas.
+Eu protejo ambientes de produção reais: **mais de 200 sites WordPress em uma frota de servidores Linux/cPanel**. Faço a detecção, contenho o incidente, encontro a causa raiz e deixo uma automação para que ele não se repita.
 
 ## Playbook
 
@@ -26,7 +26,7 @@ Construo minha trajetória em **cibersegurança**, com foco em **Blue Team, AppS
 </table>
 
 **Segurança** — Wazuh · Wireshark · Nmap · Trivy · CSF/lfd · Vaultwarden  
-**Também** — cPanel/WHM · Loki · n8n  
+**Também** — cPanel/WHM · Loki · n8n · Jira · Playwright  
 **Frameworks** — MITRE ATT&CK · NIST CSF · ISO/IEC 27001 · LGPD
 
 ## Projetos
@@ -145,6 +145,23 @@ Plugin WordPress de agenda com painel lateral, filtros, destaques e personaliza�
 Envio em lote de PDFs para portais multi-tenant: dry-run, validação de tenant, deduplicação por SHA-256 e logs sem dados pessoais (LGPD)
 
 <img src="https://skillicons.dev/icons?i=python,playwright" height="24" />
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**[jira-n8n-ops-automation](https://github.com/Lygia-Teixeira/jira-n8n-ops-automation)**
+
+Cards do Jira resolvidos por n8n: desbloqueio de IP, cota e senha de e-mail via catálogo fixo de comandos, renovação de SSL e notícias, com dry-run e auditoria
+
+<img src="https://skillicons.dev/icons?i=n8n,jira,nodejs,bash" height="24" />
+
+</td>
+<td width="33%" valign="top">
+
+</td>
+<td width="33%" valign="top">
 
 </td>
 </tr>
