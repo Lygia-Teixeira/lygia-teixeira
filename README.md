@@ -119,6 +119,35 @@ Plugin WordPress de pop-ups com carrossel, segmentação por página e entrada s
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+**[wp-anti-injection](https://github.com/Lygia-Teixeira/wp-anti-injection)**
+
+Scanner de injeções no banco do WordPress: detecção read-only, limpeza ciente de serialização, quarentena com restauração e WP-CLI
+
+<img src="https://skillicons.dev/icons?i=php,wordpress,mysql" height="24" />
+
+</td>
+<td width="33%" valign="top">
+
+**[agenda-eventos-wp](https://github.com/Lygia-Teixeira/agenda-eventos-wp)**
+
+Plugin WordPress de agenda com painel lateral, filtros, destaques e personalização, com nonce, capabilities próprias e saída escapada
+
+<img src="https://skillicons.dev/icons?i=php,js,wordpress" height="24" />
+
+</td>
+<td width="33%" valign="top">
+
+**[pdf-batch-uploader](https://github.com/Lygia-Teixeira/pdf-batch-uploader)**
+
+Envio em lote de PDFs para portais multi-tenant: dry-run, validação de tenant, deduplicação por SHA-256 e logs sem dados pessoais (LGPD)
+
+<img src="https://skillicons.dev/icons?i=python,playwright" height="24" />
+
+</td>
+</tr>
 </table>
 
 ## Casos reais (anonimizados)
