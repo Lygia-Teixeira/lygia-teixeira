@@ -1,11 +1,11 @@
-<img src="./assets/header.svg" alt="Lygia Teixeira — SOC · Blue Team" width="100%" />
+<img src="./header.svg" alt="Lygia Teixeira — SOC · Blue Team" width="100%" />
 
 <p align="right">
 <a href="https://linkedin.com/in/lygia-teixeira"><img src="https://skillicons.dev/icons?i=linkedin" height="32" /></a>
-<a href="mailto:SEU-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="32" /></a>
+<a href="mailto:lygia.tsf@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" /></a>
 </p>
 
-Eu protejo ambientes de produção reais: **mais de 200 sites WordPress em 7 servidores Linux/cPanel**. Faço a detecção, contenho o incidente, encontro a causa raiz e deixo uma automação para que ele não se repita.
+Eu protejo ambientes de produção reais: **mais de 200 sites WordPress em uma frota de servidores Linux/cPanel**. Faço a detecção, contenho o incidente, encontro a causa raiz e deixo uma automação para que ele não se repita.
 
 ## Playbook
 
@@ -44,6 +44,64 @@ Pipeline de deploy seguro na AWS: OIDC sem chaves fixas, scan Trivy bloqueante, 
 </td>
 <td width="33%" valign="top">
 
+**[linux-observability-stack](https://github.com/Lygia-Teixeira/linux-observability-stack)**
+
+Monitoramento de frota Linux/cPanel: métricas, logs categorizados (firewall, auth, WAF, web) e alertas calibrados
+
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,docker,linux" height="24" />
+
+</td>
+<td width="33%" valign="top">
+
+**[incident-response-writeups](https://github.com/Lygia-Teixeira/incident-response-writeups)**
+
+Incidentes reais anonimizados: linha do tempo, causa raiz, MITRE ATT&CK e playbooks de contenção
+
+<img src="https://skillicons.dev/icons?i=linux,bash,md" height="24" />
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**[linux-web-hardening-baseline](https://github.com/Lygia-Teixeira/linux-web-hardening-baseline)**
+
+Baseline de hardening de servidor, sites WordPress e e-mail (SPF/DKIM/DMARC), com scripts de verificação read-only
+
+<img src="https://skillicons.dev/icons?i=linux,bash,wordpress" height="24" />
+
+</td>
+<td width="33%" valign="top">
+
+**[oidc-sso-bridge](https://github.com/Lygia-Teixeira/oidc-sso-bridge)**
+
+Provedor OIDC que leva contas de uma aplicação legada ao Vaultwarden: PKCE, 2FA e tiquete de uso único anti-replay
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,docker" height="24" />
+
+</td>
+<td width="33%" valign="top">
+
+**[credential-rotation-engine](https://github.com/Lygia-Teixeira/credential-rotation-engine)**
+
+Compliance de idade e rotação de credenciais com dry-run, confirmação por hash do plano e rollback
+
+<img src="https://skillicons.dev/icons?i=nodejs,linux,mysql" height="24" />
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**[wp-fleet-inventory](https://github.com/Lygia-Teixeira/wp-fleet-inventory)**
+
+Inventário agentless de sites WordPress via SSH, com host key verificada e credenciais cifradas (AES-256-GCM)
+
+<img src="https://skillicons.dev/icons?i=nodejs,sqlite,wordpress" height="24" />
+
+</td>
+<td width="33%" valign="top">
+
 **[security-scripts](https://github.com/Lygia-Teixeira/security-scripts)**
 
 Scanner de malware PHP, analisador de logs HTTP (SQLi, XSS, LFI, força bruta, scanners) e checklist de hardening WordPress
@@ -66,7 +124,7 @@ Plugin WordPress de pop-ups com carrossel, segmentação por página e entrada s
 ## Casos reais (anonimizados)
 
 > [!NOTE]
-> Resumos de incidentes em que atuei em ambiente de produção. Os nomes de clientes e de servidores foram omitidos.
+> Resumos de incidentes em que atuei em ambiente de produção. Os nomes de clientes e de servidores foram omitidos. Versões completas em [incident-response-writeups](https://github.com/Lygia-Teixeira/incident-response-writeups).
 
 <details>
 <summary><code>INC-01</code> <b>Falso CAPTCHA "ClickFix" injetado via plugin de pop-up</b></summary>
