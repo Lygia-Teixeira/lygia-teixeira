@@ -5,7 +5,7 @@
 <a href="mailto:lygia.tsf@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" /></a>
 </p>
 
-Eu protejo ambientes de produção reais: **mais de 200 sites WordPress em uma frota de servidores Linux/cPanel**. Faço a detecção, contenho o incidente, encontro a causa raiz e deixo uma automação para que ele não se repita.
+Construo minha trajetória em cibersegurança, com foco em Blue Team, AppSec e DevSecOps. Atuo na proteção de ambientes de produção com mais de 200 sites WordPress em servidores Linux/cPanel, aplicando hardening, monitoramento e resposta a incidentes. Com a certificação CompTIA Security+, busco aprofundar essa experiência em segurança de aplicações e automação de controles, integrando proteção ao desenvolvimento e à operação de sistemas.
 
 ## Playbook
 
