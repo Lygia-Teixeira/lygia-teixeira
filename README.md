@@ -5,7 +5,7 @@
 <a href="mailto:lygia.tsf@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" /></a>
 </p>
 
-Construo minha trajetória em cibersegurança, com foco em Blue Team, AppSec e DevSecOps. Atuo na proteção de ambientes de produção com mais de 200 sites WordPress em servidores Linux/cPanel, aplicando hardening, monitoramento e resposta a incidentes. Com a certificação CompTIA Security+, busco aprofundar essa experiência em segurança de aplicações e automação de controles, integrando proteção ao desenvolvimento e à operação de sistemas.
+Atuo em Blue Team, AppSec e DevSecOps protegendo ambientes de produção com mais de 200 sites WordPress em servidores Linux/cPanel: hardening, monitoramento, resposta a incidentes e automação de controles. Hoje aprofundo a segurança de aplicações na pós em AppSec e DevSecOps, levando proteção para dentro do desenvolvimento e da operação.
 
 ## Playbook
 
